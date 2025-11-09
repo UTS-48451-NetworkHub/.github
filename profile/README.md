@@ -2,6 +2,10 @@
 
 We are a team of Electrical and Electronic Engineers studying at UTS focusing on FPGA Design and Programming, and these are our stories.
 
+
+Attributions:
+PFP Designed by Freepik
+
 <!--
 
 **Here are some ideas to get you started:**
