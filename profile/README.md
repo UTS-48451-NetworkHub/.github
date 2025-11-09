@@ -47,10 +47,3 @@ We believe in **open collaboration**, **continuous learning**, and **cleanly-syn
 📫 Reach out through our repositories’ Discussions or Issues tab — we’re always keen to collaborate or chat about HDL design, testing frameworks, and engineering workflows.  
 ⭐ Don’t forget to star our projects if you find them useful!
 
----
-
-<div align="center">
-
-**_FPGA Engineers @ UTS — Crafting tomorrow’s logic today._**
-
-</div>
