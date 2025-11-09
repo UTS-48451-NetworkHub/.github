@@ -1,4 +1,4 @@
-# ⚡ UTS FPGA Engineering Team
+# ⚡ UTS FPGA Network Engineering Team
 
 > “Turning logic into reality — one bitstream at a time.”
 
